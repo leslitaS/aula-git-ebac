@@ -1,0 +1,11 @@
+Dados do aluno
+
+-Primeiro Nome: Leslie
+-Profissão: engenheira de Software
+-Cidade: São Paulo
+-O que faz nas horas vaga: assitir Netflix
+-Feedback sobre o curso Qualidade de Software: Estou adorando o curso, o conteudo e bem preparado e atual, com professionales ecxelentes.
+-Feedback sobre a plataforma de estudo da EBAC: parabens pela metodologia de ensino.
+
+Obrigada!!!
+
